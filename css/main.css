@@ -21,13 +21,15 @@ color: aquamarine;
 background-color: blueviolet;
 
 padding-top: 20px;
-margin: 25px;
+margin-left: 25px;
 padding-bottom: 25px;
 }
 .container2 {
   background: url(/img/cloudysky.jpg) repeat center ;
+ 
+
   background-size:cover;
-  min-height: 100vh;
+  min-height: 120vh;
   min-width: 100vw;
   position: sticky;
   
@@ -41,5 +43,16 @@ padding-bottom: 25px;
 
   padding-left: 50px;
   margin-left: 10px;
+
+}
+.footer-color {
+  background-color: aquamarine;
+}
+@media only screen and (max-width: 400px) {
+  .container {background: url(/img/starrysky.jpg) repeat center}
+
+}
+@media only screen and (max-width: 800px) {
+  .box {background: url(/img/starrysky.jpg) repeat center}
 
 }
