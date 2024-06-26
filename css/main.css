@@ -14,16 +14,32 @@
 
 }
 .container {
-height: 50vh;
-width: 50vw;
+height: auto;
+width: auto;
 margin-left: 10;
 color: aquamarine;
 background-color: blueviolet;
+
+padding-top: 20px;
+margin: 25px;
+padding-bottom: 25px;
 }
 .container2 {
-  background: url(/img/cloudysky.jpg) repeat center  scroll;
+  background: url(/img/cloudysky.jpg) repeat center ;
   background-size:cover;
   min-height: 100vh;
-  min-width: 100vh;
+  min-width: 100vw;
+  position: sticky;
+  
  
+}
+
+.box {
+
+
+  padding-top: 5px;
+
+  padding-left: 50px;
+  margin-left: 10px;
+
 }
