@@ -13,3 +13,17 @@
   font-weight: 400;
 
 }
+.container {
+height: 50vh;
+width: 50vw;
+margin-left: 10;
+color: aquamarine;
+background-color: blueviolet;
+}
+.container2 {
+  background: url(/img/cloudysky.jpg) repeat center  scroll;
+  background-size:cover;
+  min-height: 100vh;
+  min-width: 100vh;
+ 
+}
