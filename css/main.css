@@ -15,16 +15,14 @@
 }
 .container4 {
 height:fit-content;
-width: 90vw;
+width: auto;
 /* margin-left: 10; */
-background: url(/img/cloudysky.jpg) no-repeat  ;
+background-color:rgba(0, 0, 0, 0.6)  ;
  
 
   background-size:auto;
 
-  /* min-height: auto;
-  min-width: 100vw; */
-  background-color: rgb(225, 138, 91);
+
 
 padding-top: 20px;
 margin-left: 25px;
@@ -40,7 +38,7 @@ padding-bottom: 25px;
   background-size:cover;
   min-height: 120vh;
   min-width: 90vw;
-  position: sticky;
+  position:sticky;
   color: goldenrod;
  
   background-color: rgb(225, 138, 91);
@@ -60,6 +58,8 @@ padding-bottom: 25px;
 width: 95vw;
 height: auto;
 
+
+text-align: center;
 }
 .shader{
 
@@ -79,6 +79,6 @@ background-color:rgba(0, 0, 0, 0.6) ;
 
 }
 
-/* .text {
+.textposition {
   text-align: center;
-} */
+} 
