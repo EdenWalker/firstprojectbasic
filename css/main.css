@@ -13,17 +13,17 @@
   font-weight: 400;
 
 }
-.container {
+.container4 {
 height:fit-content;
-width: auto;
-margin-left: 10;
+width: 90vw;
+/* margin-left: 10; */
 background: url(/img/cloudysky.jpg) no-repeat  ;
  
 
   background-size:auto;
 
-  min-height: auto;
-  min-width: 100vw;
+  /* min-height: auto;
+  min-width: 100vw; */
   background-color: rgb(225, 138, 91);
 
 padding-top: 20px;
@@ -39,10 +39,10 @@ padding-bottom: 25px;
 
   background-size:cover;
   min-height: 120vh;
-  min-width: 100vw;
+  min-width: 90vw;
   position: sticky;
   color: goldenrod;
-  text-shadow:  4px 4px 4px rgb(163, 162, 162);
+ 
   background-color: rgb(225, 138, 91);
 }
 
@@ -57,15 +57,28 @@ padding-bottom: 25px;
 }
 .footer-color {
   background-color: rgb(225, 138, 91);
+width: 95vw;
+height: auto;
+
 }
+.shader{
+
+background-color:rgba(0, 0, 0, 0.6) ;
+
+}
+
+
+
+
 @media only screen and (max-width: 400px) {
-  .container {background: url(/img/starrysky.jpg) repeat center}
+  .container {background: url(/img/cloudysky.jpg) repeat center}
 
 }
 @media only screen and (max-width: 800px) {
-  .box {background: url(/img/starrysky.jpg) repeat center}
+  .box {background: url(/img/cloudysky.jpg) repeat center}
 
 }
+
 /* .text {
   text-align: center;
 } */
