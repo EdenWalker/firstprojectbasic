@@ -14,25 +14,32 @@
 
 }
 .container {
-height: auto;
+height:fit-content;
 width: auto;
 margin-left: 10;
-color: aquamarine;
-background-color: blueviolet;
+background: url(/img/cloudysky.jpg) no-repeat  ;
+ 
+
+  background-size:;
+
+  min-height: auto;
+  min-width: 100vw;
+
 
 padding-top: 20px;
 margin-left: 25px;
 padding-bottom: 25px;
 }
 .container2 {
-  background: url(/img/cloudysky.jpg) repeat center ;
+  background: url(/img/author.jpg) repeat center ;
  
 
   background-size:cover;
   min-height: 120vh;
   min-width: 100vw;
   position: sticky;
-  
+  color: goldenrod;
+  text-shadow:  4px 4px 4px rgb(163, 162, 162)
  
 }
 
@@ -56,3 +63,6 @@ padding-bottom: 25px;
   .box {background: url(/img/starrysky.jpg) repeat center}
 
 }
+/* .text {
+  text-align: center;
+} */
