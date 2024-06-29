@@ -18,12 +18,7 @@ height:fit-content;
 width: auto;
 /* margin-left: 10; */
 background-color:rgba(0, 0, 0, 0.6)  ;
- 
-
-  background-size:auto;
-
-
-
+background-size:auto;
 padding-top: 20px;
 margin-left: 25px;
 padding-bottom: 25px;
@@ -71,15 +66,23 @@ background-color:rgba(0, 0, 0, 0.6) ;
   
 background-image: url(/img/cook.jpg) ;
 opacity: 0.9;
+background-repeat: no-repeat;
 
+background-size: cover;
  
 }
 .shader2{ 
 background-image: url(/img/grandsmith.jpg) ;
 opacity: 0.9; 
+background-repeat: no-repeat;
+
+background-size: cover;
 }
 .shader1{ 
-background-image: url(/img/Edenwalker01.jpg) ;
+background-image: url(/img/Edenwalker01.jpg);
+background-repeat: no-repeat;
+
+background-size: cover;
 opacity: 0.9;
     
      
