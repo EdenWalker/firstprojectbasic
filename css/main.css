@@ -97,19 +97,19 @@ opacity: 0.9;
 background-repeat: no-repeat;
 
 background-size: cover;
- 
+background-position: center;
 }
 .shader2{ 
 background-image: url(/img/grandsmith.jpg) ;
 opacity: 0.9; 
 background-repeat: no-repeat;
-
+background-position: center;
 background-size: cover;
 }
 .shader1{ 
 background-image: url(/img/Edenwalker01.jpg);
 background-repeat: no-repeat;
-
+background-position: center;
 background-size: cover;
 opacity: 0.9;
     
