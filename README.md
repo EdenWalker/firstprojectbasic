@@ -12,7 +12,7 @@ Prepared By: Ng Jun Heng
 This repo is about an Author by the name of EdenWalker (Formerly VoidPath) on the website royalroad.
 
 ## Design Process
-using ideas and design concept from the website by christine feehan,elements from it is used to create a webpage for an author. The goal is to showcase the few books written by EdenWalker. originally the synopsis 
+using ideas and design concept from the website by christine feehan,elements from it is used to create a webpage for an author. The goal is to showcase the few books written by EdenWalker. Edenwalker wishes to have a website that allows meaningful interactions with the readers.
 ## Features
 a carousel is implemented to rotate through the the books written by the said author. 
 
@@ -36,3 +36,7 @@ css3
 [royalroad](https://www.royalroad.com/profile/12350)
 [W3schools](https://www.w3schools.com/)
 [google](http://www.google.com)
+
+### special thanks
+Arif
+Malcom
