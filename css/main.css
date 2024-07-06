@@ -55,7 +55,7 @@ padding-bottom: 25px;
   background-color: rgb(225, 138, 91);
 }
 .container2 {
-  background: url(/img/author.jpg) repeat center ;
+  background: url(../img/author.jpg) repeat center ;
  
 
   background-size:cover;
@@ -92,7 +92,7 @@ background-color:rgba(0, 0, 0, 0.6) ;
 .shader3{
 
   
-background-image: url(/img/cook.jpg) ;
+background-image: url(../img/cook.jpg) ;
 opacity: 0.9;
 background-repeat: no-repeat;
 
@@ -100,14 +100,14 @@ background-size: cover;
 background-position: center;
 }
 .shader2{ 
-background-image: url(/img/grandsmith.jpg) ;
+background-image: url(../img/grandsmith.jpg) ;
 opacity: 0.9; 
 background-repeat: no-repeat;
 background-position: center;
 background-size: cover;
 }
 .shader1{ 
-background-image: url(/img/Edenwalker01.jpg);
+background-image: url(../img/Edenwalker01.jpg);
 background-repeat: no-repeat;
 background-position: center;
 background-size: cover;
@@ -157,11 +157,11 @@ input[type=submit]:hover {
 }
 
 @media only screen and (max-width: 400px) {
-  .container {background: url(/img/cloudysky.jpg) repeat center}
+  .container {background: url(../img/cloudysky.jpg) repeat center}
 
 }
 @media only screen and (max-width: 800px) {
-  .box {background: url(/img/cloudysky.jpg) repeat center}
+  .box {background: url(../img/cloudysky.jpg) repeat center}
 
 }
 
